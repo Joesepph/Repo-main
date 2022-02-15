@@ -1,4 +1,4 @@
-# \Szkolne projekty
+# Szkolne projekty
 
 `Mark Veremeienko 15.02.2022`
 
