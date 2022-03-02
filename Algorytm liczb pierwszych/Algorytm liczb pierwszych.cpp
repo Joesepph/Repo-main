@@ -3,29 +3,29 @@ using namespace std;
 
 int main()
 {
-	int n;
+	int n, d;
 	int lp = 0;
 	int p = 2;
-	int d;
 
-	bool t;
+	bool pierwsza;
 
 	cout << "Ile liczb pierwszych chcesz wyswietlic: ";  cin >> n;
 
 	while (lp < n) {
-		t = true;
+		pierwsza = true;
 		for (d = 2; d < p - 1; d++) {
 			if (p % d == 0) {
-				t = false;
+				pierwsza = false;
 				break;
 			}
 		}
-		if(t){
+		if (pierwsza) {
 			cout << p << ", ";
 			lp++;
 		}
 		p++;
 	}
 	cout << endl;
+
 	return 0;
 }
