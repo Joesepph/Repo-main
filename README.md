@@ -10,6 +10,6 @@ To są wszystkie moje dotychczasowe projekty
 
 Linki do zrealizowanych programów:
 
-1. [Algorytm 1](https://github.com/Joesepph/Repo-main/blob/main/Algorytm%20liczb%20pierwszych/Algorytm%20liczb%20pierwszych.cpp) !![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)
+1. [Algorytm 1](https://github.com/Joesepph/Repo-main/blob/main/Algorytm%20liczb%20pierwszych/Algorytm%20liczb%20pierwszych.cpp) ![#FDF364](https://via.placeholder.com/15/FDF364/000000?text=+)
       Ten algorytm losuje tyle liczb pierwszych ile podał użytkownik tzn. jeżeli użytkownik wpisze 15 to program wypisze 15 liczb pierwszych zaczynając od cyfry 2. 
 3. [Algorytm 2]()
