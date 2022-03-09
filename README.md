@@ -10,5 +10,5 @@ To są wszystkie moje dotychczasowe projekty
 
 Linki do zrealizowanych programów:
 
-1. [Algorytm 1]()
+1. [Algorytm 1](https://github.com/Joesepph/Repo-main/blob/main/Algorytm%20liczb%20pierwszych/Algorytm%20liczb%20pierwszych.cpp)
 2. [Algorytm 2]()
